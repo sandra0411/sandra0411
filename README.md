@@ -2,7 +2,7 @@
 <h1 align="center">Hello Folks! I´m <a href="https://linkedin.com/inwww.linkedin.com/in/sandradivan">Sandra</a> :wave: </h1>
 <br>
 <div align="center" border-inline="1px solid black">
-<img src="https://github.com/sandra0411/sandra0411/blob/main/coverImage.png" width=80% height="400" >
+<img src="https://github.com/sandra0411/sandra0411/blob/main/coverImage.png" width=100% height="450" >
   
 </div>
 <br>
