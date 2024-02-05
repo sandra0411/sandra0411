@@ -46,7 +46,7 @@
 ## Connect with me 🚀
 <br/>
 <div align="center">
-<a href="https://github.com/https://github.com/sandra0411" target="_blank">
+<a href="https://github.com/sandra0411" target="_blank">
 <img src=https://img.shields.io/badge/Github-%23536DFE?style=for-the-badge&logo=github&logoColor=white&labelColor=%2341454A alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/sandradivan" target="_blank">
