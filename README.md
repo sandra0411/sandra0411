@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Folks! I´m <a href="https://linkedin.com/inwww.linkedin.com/in/sandradivan">Sandra</a> :wave: </h1>
+<h1 align="center">Hello Folks! I´m <a href="https://www.linkedin.com/in/sandradivan">Sandra</a> :wave: </h1>
 <br>
 <div align="center" border-inline="1px solid black">
 <img src="https://github.com/sandra0411/sandra0411/blob/main/coverImage.png" width=100% height="450" >
@@ -49,7 +49,7 @@
 <a href="https://github.com/https://github.com/sandra0411" target="_blank">
 <img src=https://img.shields.io/badge/Github-%23536DFE?style=for-the-badge&logo=github&logoColor=white&labelColor=%2341454A alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/inwww.linkedin.com/in/sandradivan" target="_blank">
+<a href="https://www.linkedin.com/in/sandradivan" target="_blank">
 <img src=https://img.shields.io/badge/Linkedin-%23536DFE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%2341454A alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
